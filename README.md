@@ -1,4 +1,14 @@
-### Hi there 👋
+I'm a 15 y/o demigirl living in Virginia that's mainly focused on \*nix and some programming
+
+Some quick information about me:
+- Pronouns: she/her, kit/kits, and they/them
+- Currently learning: C and low level development
+- Main programming language(s): Rust and typescript
+
+You can find me on:
+- Twitter: [@comradedweam](https://twitter.com/comradedweam)
+- Discord: Dream#9616
+
 
 <!--
 **apriluwu/apriluwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
