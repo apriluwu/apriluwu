@@ -7,5 +7,5 @@ I would like to possibly go into system administration when I'm older or possibl
 - Main programming language(s): Rust and typescript
 
 You can find me on:
-- Twitter: [@comradedweam](https://twitter.com/comradedweam)
+- Twitter: [@sleepydweam](https://twitter.com/sleepydweam)
 - Discord: Dream#9616
