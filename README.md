@@ -1,11 +1,7 @@
-I'm a 15 y/o demigirl living in Virginia that's mainly focused on \*nix and some programming </br>
-I mostly like to mess with linux and it's varients and I've recently started trying out BSD. I hope to go forward and make my own distro one day. </br>
-I would like to possibly go into system administration when I'm older or possibly just continue developing FOSS software
+Hi I'm April and I code sometimes when I feel like it. I'm mainly into politics now though.
 
-- Pronouns: she/her, kit/kits, and they/them
-- Currently learning: C and low level development
-- Main programming language(s): Rust and typescript
-
-You can find me on:
+Elsewhere:
 - Twitter: [@sleepydweam](https://twitter.com/sleepydweam)
+- Keybase: [sleepydream](https://keybase.io/sleepydream)
 - Discord: Dream#9616
+
