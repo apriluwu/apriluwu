@@ -1,7 +1,10 @@
-Hi I'm April and I code sometimes when I feel like it. I'm mainly into politics now though.
+Hello! I'm April, I'm a 15 y/o trans girl that does some coding.
+
+- Main languages: Rust
+- Learning: C
+- Other interests: politics, sysadmin
 
 Elsewhere:
-- Twitter: [@sleepydweam](https://twitter.com/sleepydweam)
-- Keybase: [sleepydream](https://keybase.io/sleepydream)
 - Discord: Dream#9616
-
+- Keybase: [sleepydream](https://keybase.io/sleepydream)
+- Fedi: [@april@uwu.social](https://uwu.social/@april)
