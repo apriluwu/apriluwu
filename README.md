@@ -16,5 +16,5 @@ As of right now I am not working on anything mainly, I've started investing more
 
 Contacting me isn't super hard:
 - Discord: rain#7103
-- Twitter: [@rainyynoon](https://twitter.com/rainyynoon)
+- Twitter: [@smolrainy](https://twitter.com/smolrainy)
 - Email: nightlyyrain@gmail.com
